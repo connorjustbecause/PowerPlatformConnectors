@@ -3266,7 +3266,7 @@
             "in": "path",
             "required": true,
             "type": "string",
-            "x-ms-summary": "Url the webhook will redirect to",
+            "x-ms-summary": "Dashboard the trigger will listen to events from",
             "x-ms-url-encoding": "single",
             "x-ms-dynamic-values": {
               "operationId": "GetDashboards",
